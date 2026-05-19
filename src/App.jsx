@@ -4,6 +4,7 @@ import Projects from './components/sections/projects/Projects'
 import Skills from './components/sections/skills/Skills'
 import Contact from './components/sections/contact/Contact'
 import Footer from './components/sections/footer/Footer'
+import './styles/global.css'
 
 function App() {
 
